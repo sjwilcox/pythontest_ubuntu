@@ -2,6 +2,7 @@
 
 def main(msg):
 	//adding second comment to this file
+	//print a message
     print(msg)
 
 main("Hello People! This is your overlord robot...")
